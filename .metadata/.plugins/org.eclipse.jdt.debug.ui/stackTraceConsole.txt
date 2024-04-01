@@ -1,0 +1,8 @@
+java.lang.Error: Unresolved compilation problem: 
+	calculator cannot be resolved
+
+	at STARAGILE/calculator.tester.calcTestDiv(tester.java:29)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+

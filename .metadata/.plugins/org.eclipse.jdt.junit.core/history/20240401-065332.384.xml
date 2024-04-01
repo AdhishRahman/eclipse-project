@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="jtester" project="solarcalculator" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="calculatordev.jtester" time="0.001" displayname="jtester" uniqueid="[engine:junit-jupiter]/[class:calculatordev.jtester]">
+    <testcase name="calTestSub" classname="calculatordev.jtester" time="0.001" displayname="calTestSub()" uniqueid="[engine:junit-jupiter]/[class:calculatordev.jtester]/[method:calTestSub()]"/>
+    <testcase name="calcTestDiv" classname="calculatordev.jtester" time="0.0" displayname="calcTestDiv()" uniqueid="[engine:junit-jupiter]/[class:calculatordev.jtester]/[method:calcTestDiv()]"/>
+    <testcase name="calcTestMul" classname="calculatordev.jtester" time="0.0" displayname="calcTestMul()" uniqueid="[engine:junit-jupiter]/[class:calculatordev.jtester]/[method:calcTestMul()]"/>
+    <testcase name="calTest" classname="calculatordev.jtester" time="0.0" displayname="calTest()" uniqueid="[engine:junit-jupiter]/[class:calculatordev.jtester]/[method:calTest()]"/>
+  </testsuite>
+</testrun>

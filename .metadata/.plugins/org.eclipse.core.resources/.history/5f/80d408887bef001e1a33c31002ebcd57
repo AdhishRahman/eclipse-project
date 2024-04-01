@@ -1,0 +1,60 @@
+package calculator;
+
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+class calciTest {
+
+    @Test
+    void testAdd() {
+        assertEquals(30, calci.add(10, 20));
+    }
+
+    @Test
+    void testSub() {
+        assertEquals(10, calci.sub(20, 10));
+    }
+
+    @Test
+    void testMul() {
+        assertEquals(200, calci.mul(10, 20));
+    }
+
+    @Test
+    void testDiv() {
+        assertEquals(2.0, calci.div(20, 10));
+    }
+
+    @Test
+    void testDivByZero() {
+        assertThrows(IllegalArgumentException.class, () -> calci.div(20, 0));
+    }
+}
+package calculator;
+
+,,//import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class calcitest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
+package calculator;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class calcitest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
